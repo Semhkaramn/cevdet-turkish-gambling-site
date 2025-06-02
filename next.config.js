@@ -3,6 +3,8 @@ const nextConfig = {
   output: 'export',
   distDir: 'out',
   trailingSlash: true,
+  basePath: '/cevdet-turkish-gambling-site',
+  assetPrefix: '/cevdet-turkish-gambling-site',
   images: {
     unoptimized: true,
     domains: [
