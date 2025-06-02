@@ -95,6 +95,13 @@ export const mockClientData: ClientData = {
       ]
     },
     {
+      id: 1706206296219, // diamond
+      grid: 3,
+      sites: [
+        { site: "sa", sort: "1" }
+      ]
+    },
+    {
       id: 1706406420307, // bottomFix
       grid: 1,
       sites: [
